@@ -12,7 +12,7 @@ Every project below is live on GitHub Pages.
 | --- | --- |
 | [OpusWeb](https://rayfoolshs.github.io/OpusWeb/) | Browser music notation & score editor |
 | [Chord Draft Diagram](https://rayfoolshs.github.io/Chord-Draft-Diagram/) | Interactive guitar chord diagram maker & export |
-| [ChordSheetStudioPro](https://rayfoolshs.github.io/ChordSheetStudioPro/) | Chord sheets for multiple instruments |
+| [ChordSheetStudio](https://rayfoolshs.github.io/ChordSheetStudio/) | Chord sheets for multiple instruments |
 | [Chordstand](https://rayfoolshs.github.io/chordstand/) | Local-first chord charts, set lists, OnSong import, stage mirror |
 | [Chord-Stand-Studio](https://rayfoolshs.github.io/Chord-Stand-Studio/) | Stage charts with sync, OnSong & Drive |
 | [ChordCompassPro](https://rayfoolshs.github.io/ChordCompassPro/) | Theory-guided progression & voice-leading studio |
