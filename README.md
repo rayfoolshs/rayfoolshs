@@ -2,7 +2,7 @@
 
 Music tech teacher, building browser tools for music education, notation, and making.
 
-**[▶ Browse all 22 apps on one page →](https://rayfoolshs.github.io)**
+**[▶ Browse all 24 apps on one page →](https://rayfoolshs.github.io)**
 
 Every project below is live on GitHub Pages.
 
@@ -11,6 +11,8 @@ Every project below is live on GitHub Pages.
 | App | What it does |
 | --- | --- |
 | [OpusWeb](https://rayfoolshs.github.io/OpusWeb/) | Browser music notation & score editor |
+| [OpusWeb Academy](https://rayfoolshs.github.io/Opus-Web-Academy/) | Tutorial video studio and downloadable PDF manual |
+| [MuseScore Online](https://rayfoolshs.github.io/musescore-online/) | MuseScore Studio in the browser (WASM), MusicXML/MIDI export |
 | [Chord Draft Diagram](https://rayfoolshs.github.io/Chord-Draft-Diagram/) | Interactive guitar chord diagram maker & export |
 | [ChordSheetStudio](https://rayfoolshs.github.io/ChordSheetStudio/) | Chord sheets for multiple instruments |
 | [Chordstand](https://rayfoolshs.github.io/chordstand/) | Local-first chord charts, set lists, OnSong import, stage mirror |
