@@ -2,9 +2,9 @@
 
 Music tech teacher, building browser tools for music education, notation, and making.
 
-**[▶ Browse all 23 apps on one page →](https://rayfoolshs.github.io)**
+**[▶ Browse all 24 projects on one page →](https://rayfoolshs.github.io)**
 
-Every project below is live on GitHub Pages.
+Everything below runs in the browser on GitHub Pages, except the one desktop tool.
 
 ## Notation, chords & theory
 
@@ -48,6 +48,12 @@ Every project below is live on GitHub Pages.
 | [Skate Metrics](https://rayfoolshs.github.io/skate-metrics/) | Markerless figure-skating jump analysis from a phone video |
 | [Skatemetrics](https://rayfoolshs.github.io/Skatemetrics/) | Newer build of the skate jump analysis app |
 | [StagePlot Studio](https://rayfoolshs.github.io/StageplotPro/) | Stage layout & input patch designer |
+
+## Desktop tools
+
+| Tool | What it does |
+| --- | --- |
+| [Karaoke Tracks](https://github.com/rayfoolshs/karaoke-tracks) | Windows one-click vocal remover: instrumental/karaoke MP3s via Demucs |
 
 ---
 
